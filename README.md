@@ -1,6 +1,6 @@
 # My-Personal-portfilio-Web-page
 portfolio Web-page 
-This is a personal portfolio website designed and developed by Sanjay H R – a Software Developer and AI/ML Engineer.
+This is a personal portfolio website designed and developed by Sunil T R – a Software Developer and AI/ML Engineer.
 The site showcases my skills, projects, and contact information with a modern, responsive design built using HTML, CSS, and JavaScript.
 
 🔹 Features
